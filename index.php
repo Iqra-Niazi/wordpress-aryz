@@ -110,7 +110,7 @@
                             </video>
                         </div>
                         <div class="img palm__img">
-                            <noscript><img src="wp-content/themes/catapulta-carbon/images/palm_2.webp" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="https://www.carboncoskins.com/wp-content/themes/catapulta-carbon/images/palm_2.webp" class=" lazyload">
+                            <noscript><img src="<?php echo get_template_directory_uri(); ?>/assets//images/palm_2.webp" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="https://www.carboncoskins.com/wp-content/themes/catapulta-carbon/images/palm_2.webp" class=" lazyload">
                         </div>
                     </div>
                     <div class="slider__wrapper sliders_col">
@@ -158,8 +158,8 @@
                             <div class="card__slide-img" data-card-color="black">
                                 <div data-link="/order/?template=hxh&amp;color=black" class="best_sellers_card_img">
                                     <noscript><img class="best_sellers_card_bg" src="wp-content/uploads/2021/09/Silver-min_webp_cache_50.webp" alt></noscript><img class="best_sellers_card_bg lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/uploads/2021/09/Silver-min_webp_cache_50.webp">
-                                    <noscript><img class="best_sellers_card_circuit" src="wp-content/themes/catapulta-carbon/images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/circuit.png">
-                                    <noscript><img class="best_sellers_card_arrow" src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png">
+                                    <noscript><img class="best_sellers_card_circuit" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png">
+                                    <noscript><img class="best_sellers_card_arrow" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png">
                                 </div>
                             </div>
                         </div>
@@ -167,8 +167,8 @@
                             <div class="card__slide-img" data-card-color="blackgold">
                                 <div data-link="/order/?template=CHAMBER&amp;color=blackgold" class="best_sellers_card_img">
                                     <noscript><img class="best_sellers_card_bg" src="wp-content/uploads/2022/09/Property-1Black-min-2022-09-12T082320.036_webp_cache_50.webp" alt></noscript><img class="best_sellers_card_bg lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/uploads/2022/09/Property-1Black-min-2022-09-12T082320.036_webp_cache_50.webp">
-                                    <noscript><img class="best_sellers_card_circuit" src="wp-content/themes/catapulta-carbon/images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/circuit.png">
-                                    <noscript><img class="best_sellers_card_arrow" src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png">
+                                    <noscript><img class="best_sellers_card_circuit" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png">
+                                    <noscript><img class="best_sellers_card_arrow" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png">
                                 </div>
                             </div>
                         </div>
@@ -176,8 +176,8 @@
                             <div class="card__slide-img" data-card-color="rainbow">
                                 <div data-link="/order/?template=millionaire-club&amp;color=rainbow" class="best_sellers_card_img">
                                     <noscript><img class="best_sellers_card_bg" src="wp-content/uploads/2021/09/mclub-rb_webp_cache_50.webp" alt></noscript><img class="best_sellers_card_bg lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/uploads/2021/09/mclub-rb_webp_cache_50.webp">
-                                    <noscript><img class="best_sellers_card_circuit" src="wp-content/themes/catapulta-carbon/images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/circuit.png">
-                                    <noscript><img class="best_sellers_card_arrow" src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png">
+                                    <noscript><img class="best_sellers_card_circuit" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png">
+                                    <noscript><img class="best_sellers_card_arrow" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png">
                                 </div>
                             </div>
                         </div>
@@ -185,8 +185,8 @@
                             <div class="card__slide-img" data-card-color="blackgold">
                                 <div data-link="/order/?template=king-card&amp;color=blackgold" class="best_sellers_card_img">
                                     <noscript><img class="best_sellers_card_bg" src="wp-content/uploads/2021/09/kingcard-bg_webp_cache_50.webp" alt></noscript><img class="best_sellers_card_bg lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/uploads/2021/09/kingcard-bg_webp_cache_50.webp">
-                                    <noscript><img class="best_sellers_card_circuit" src="wp-content/themes/catapulta-carbon/images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/circuit.png">
-                                    <noscript><img class="best_sellers_card_arrow" src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png">
+                                    <noscript><img class="best_sellers_card_circuit" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png">
+                                    <noscript><img class="best_sellers_card_arrow" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png">
                                 </div>
                             </div>
                         </div>
@@ -194,8 +194,8 @@
                             <div class="card__slide-img" data-card-color="gold">
                                 <div data-link="/order/?template=belle&amp;color=gold" class="best_sellers_card_img">
                                     <noscript><img class="best_sellers_card_bg" src="wp-content/uploads/2022/03/Property-1Gold-min-2022-03-01T082808.726_webp_cache_50.webp" alt></noscript><img class="best_sellers_card_bg lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/uploads/2022/03/Property-1Gold-min-2022-03-01T082808.726_webp_cache_50.webp">
-                                    <noscript><img class="best_sellers_card_circuit" src="wp-content/themes/catapulta-carbon/images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/circuit.png">
-                                    <noscript><img class="best_sellers_card_arrow" src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="wp-content/themes/catapulta-carbon/images/cards/gold_arrow.png">
+                                    <noscript><img class="best_sellers_card_circuit" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png" alt></noscript><img class="best_sellers_card_circuit lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/circuit.png">
+                                    <noscript><img class="best_sellers_card_arrow" src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png" alt></noscript><img class="best_sellers_card_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/cards/gold_arrow.png">
                                 </div>
                             </div>
                         </div>
@@ -222,21 +222,21 @@
                 </div>
                 <div class="preference__row">
                     <div class="preference__col animation-element">
-                        <div class="img"><noscript><img src="wp-content/themes/catapulta-carbon/images/preferences/icon_world.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/themes/catapulta-carbon/images/preferences/icon_world.svg" class=" lazyload"></div>
+                        <div class="img"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets//images/preferences/icon_world.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/preferences/icon_world.svg" class=" lazyload"></div>
                         <div class="text">
                             <h3 class="title_2">Shipping</h3>
                             <p class="text_2">We only use secure and tracked shipping in discreet unbranded packaging.</p>
                         </div>
                     </div>
                     <div class="preference__col animation-element">
-                        <div class="img"><noscript><img src="wp-content/themes/catapulta-carbon/images/preferences/icon_lamp.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/themes/catapulta-carbon/images/preferences/icon_lamp.svg" class=" lazyload"></div>
+                        <div class="img"><noscript><img src="wp-content/themes/catapulta-carbon/images/preferences/icon_lamp.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/preferences/icon_lamp.svg" class=" lazyload"></div>
                         <div class="text">
                             <h3 class="title_2">Process</h3>
                             <p class="text_2">Our equipment is highly secure and does not store any personal or sensitive card information.</p>
                         </div>
                     </div>
                     <div class="preference__col animation-element">
-                        <div class="img"><noscript><img src="wp-content/themes/catapulta-carbon/images/preferences/icon_protect.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/themes/catapulta-carbon/images/preferences/icon_protect.svg" class=" lazyload"></div>
+                        <div class="img"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets//images/preferences/icon_protect.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/preferences/icon_protect.svg" class=" lazyload"></div>
                         <div class="text">
                             <h3 class="title_2">Card Data</h3>
                             <p class="text_2">All payments are processed via our PCI compliant payment merchant.</p>
@@ -251,7 +251,7 @@
             <div class="footer__row">
                 <div class="footer__col footer__col_logo">
                     <a href="index.html" class="logo">
-                        <noscript><img src="wp-content/themes/catapulta-carbon/images/logo_white.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="/wp-content/themes/catapulta-carbon/images/logo_white.svg" class=" lazyload">
+                        <noscript><img src="<?php echo get_template_directory_uri(); ?>/assets//images/logo_white.svg" alt></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt data-src="<?php echo get_template_directory_uri(); ?>/assets//images/logo_white.svg" class=" lazyload">
                     </a>
                     <p class="footer_text_size text_2">Custom metal credit &amp; debit cards</p>
                 </div>
@@ -290,9 +290,9 @@
                         </ul>
                     </div>
                 </div>
-                <div class="footer_social footer__col"><a title="Tiktok" target="_blank" href="https://www.tiktok.com"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_tiktok.svg" alt="Tiktok"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Tiktok" data-src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_tiktok.svg" class=" lazyload"></a>
-                    <a title="Facebook" target="_blank" href="https://www.facebook.com"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_fb.svg" alt="Facebook"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Facebook" data-src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_fb.svg" class=" lazyload"></a>
-                    <a title="Instagram" target="_blank" href="https://www.instagram.com/"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_insta.svg" alt="Instagram"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Instagram" data-src="<?php echo get_template_directory_uri(); ?>/assets/2021/06/social_insta.svg" class=" lazyload"></a>
+                <div class="footer_social footer__col"><a title="Tiktok" target="_blank" href="https://www.tiktok.com"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_tiktok.svg" alt="Tiktok"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Tiktok" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_tiktok.svg" class=" lazyload"></a>
+                    <a title="Facebook" target="_blank" href="https://www.facebook.com"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_fb.svg" alt="Facebook"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Facebook" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_fb.svg" class=" lazyload"></a>
+                    <a title="Instagram" target="_blank" href="https://www.instagram.com/"><noscript><img src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_insta.svg" alt="Instagram"></noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Instagram" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/2021/06/social_insta.svg" class=" lazyload"></a>
                 </div>
             </div>
             <div class="copyright__row">
